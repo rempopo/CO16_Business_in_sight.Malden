@@ -17,7 +17,7 @@ class Params
 {
 
 	OVERVIEW(0, "Обзор:");
-	OVERVIEW(1, "Попытка SEAL-ов захватить продавца оружия. Цели: 1) Захватить продовца. 2) Зачистить Obj. Alpha.");
+	OVERVIEW(1, "Попытка SEAL-ов захватить продавца оружия. Цели: 1) Захватить продовца. 2) (опционально) Зачистить Obj. Alpha.");
 	OVERVIEW(2, "Medic или Gunner - слот для ГСО");
 	
 	class overview_line_break
