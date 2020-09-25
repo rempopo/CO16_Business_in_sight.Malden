@@ -247,7 +247,7 @@ kit_sec_pistol2 = [
 kit_bandit_random = [
     "kit_bandit_smg","kit_bandit_smg"
     ,"kit_bandit_r"
-	,"kit_bandit_mm"
+    ,"kit_bandit_mm"
     ,"kit_bandit_shtg"
     ,"kit_bandit_s"
 ];
